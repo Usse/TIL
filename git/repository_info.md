@@ -2,7 +2,7 @@
 
 
 
-List all tge modify to a file
+List all the modify to a file
 
 ```
 git log --follow --name-only -- css/style.css
