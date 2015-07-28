@@ -14,7 +14,7 @@
 
 [https://medium.com/@devknoll/graphql-in-production-77098078b54d](https://medium.com/@devknoll/graphql-in-production-77098078b54d)
 
-
+[https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 
 ---
 ###ReactJS
@@ -45,7 +45,20 @@
 
 [https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841)
 
+[http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/](http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/)
 
+[http://guybedford.com/practical-workflows-for-es6-modules](http://guybedford.com/practical-workflows-for-es6-modules)
+
+[http://projects.formidablelabs.com/es6-interactive-guide/](http://projects.formidablelabs.com/es6-interactive-guide/)
+
+
+
+---
+###Functional
+
+[http://www.htmlxprs.com/post/47/introduction-to-javascript-immutability-with-immutablejs-tutorial](http://www.htmlxprs.com/post/47/introduction-to-javascript-immutability-with-immutablejs-tutorial)
+
+[https://facebook.github.io/immutable-js/](https://facebook.github.io/immutable-js/)
 
 ---
 ###Various
@@ -56,3 +69,4 @@
 
 [http://hackr.io/tutorials/javascript](http://hackr.io/tutorials/javascript)
 
+[http://www.r2d3.us/visual-intro-to-machine-learning-part-1/](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
