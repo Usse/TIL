@@ -15,6 +15,11 @@ List all the commit from a specific user
 git log --author=“USERNAME”
 ```
 
+Git logs in one line
+
+```
+git log --oneline
+```
 
 Table with page and commit number 
 
@@ -28,3 +33,8 @@ List last commit
 git log -p -2
 ```
 
+Groups commits by user
+
+```
+git shortlog
+```
