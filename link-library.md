@@ -51,9 +51,9 @@
 
 [http://projects.formidablelabs.com/es6-interactive-guide/](http://projects.formidablelabs.com/es6-interactive-guide/)
 
-[https://leanpub.com/understandinges6/read] (https://leanpub.com/understandinges6/read)
+[https://leanpub.com/understandinges6/read](https://leanpub.com/understandinges6/read)
 
-[https://leanpub.com/exploring-es6/read] (https://leanpub.com/exploring-es6/read)
+[https://leanpub.com/exploring-es6/read](https://leanpub.com/exploring-es6/read)
 
 ---
 ###Functional
@@ -72,3 +72,7 @@
 [http://hackr.io/tutorials/javascript](http://hackr.io/tutorials/javascript)
 
 [http://www.r2d3.us/visual-intro-to-machine-learning-part-1/](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+[https://github.com/substack/browserify-handbook](https://github.com/substack/browserify-handbook)
+
+[https://github.com/gulpjs/gulp/tree/master/docs/recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
