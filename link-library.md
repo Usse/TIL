@@ -51,7 +51,9 @@
 
 [http://projects.formidablelabs.com/es6-interactive-guide/](http://projects.formidablelabs.com/es6-interactive-guide/)
 
+[https://leanpub.com/understandinges6/read] (https://leanpub.com/understandinges6/read)
 
+[https://leanpub.com/exploring-es6/read] (https://leanpub.com/exploring-es6/read)
 
 ---
 ###Functional
