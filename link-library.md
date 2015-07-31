@@ -1,10 +1,20 @@
 
+###JS
+
+[https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+
+[http://hackr.io/tutorials/javascript](http://hackr.io/tutorials/javascript)
+
+[http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/](http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
+
+---
 ###Flux
 
 [http://reactjsnews.com/getting-started-with-flux/](http://reactjsnews.com/getting-started-with-flux/)
 
 [https://medium.com/@tribou/react-and-flux-for-the-rest-of-us-61f90869d51f](https://medium.com/@tribou/react-and-flux-for-the-rest-of-us-61f90869d51f)
 
+[https://medium.com/@tribou/flux-getting-data-from-an-api-b73b6478c015](https://medium.com/@tribou/flux-getting-data-from-an-api-b73b6478c015)
 
 
 ---
@@ -70,10 +80,11 @@
 
 [http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 
-[http://hackr.io/tutorials/javascript](http://hackr.io/tutorials/javascript)
-
 [http://www.r2d3.us/visual-intro-to-machine-learning-part-1/](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 [https://github.com/substack/browserify-handbook](https://github.com/substack/browserify-handbook)
 
 [https://github.com/gulpjs/gulp/tree/master/docs/recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
+
+[http://enboard.co/webdesign/](http://enboard.co/webdesign/)
+
