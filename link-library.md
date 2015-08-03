@@ -88,3 +88,4 @@
 
 [http://enboard.co/webdesign/](http://enboard.co/webdesign/)
 
+[http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting](http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
