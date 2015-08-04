@@ -16,6 +16,8 @@
 
 [https://medium.com/@tribou/flux-getting-data-from-an-api-b73b6478c015](https://medium.com/@tribou/flux-getting-data-from-an-api-b73b6478c015)
 
+[https://medium.com/@tribou/react-and-flux-a-docker-development-workflow-469957f3bbf0](https://medium.com/@tribou/react-and-flux-a-docker-development-workflow-469957f3bbf0)
+
 
 ---
 ###GraphQL
