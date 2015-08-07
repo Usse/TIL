@@ -7,6 +7,8 @@
 
 [http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/](http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
 
+[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+
 ---
 ###Flux
 
