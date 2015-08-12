@@ -36,11 +36,11 @@
 [http://survivejs.com/webpack_react/introduction/](http://survivejs.com/webpack_react/introduction/)
 
 [http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
-](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
-)
+](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
 [http://alt.js.org/guide/](http://alt.js.org/guide/)
 
+[http://brandonokert.com/2015/08/04/TestingInReact/](http://brandonokert.com/2015/08/04/TestingInReact/)
 
 ---
 ###PostCSS
