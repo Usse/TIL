@@ -42,6 +42,10 @@
 
 [http://brandonokert.com/2015/08/04/TestingInReact/](http://brandonokert.com/2015/08/04/TestingInReact/)
 
+[http://rss.reactloop.org/](http://rss.reactloop.org/)
+
+[http://codewinds.com/blog/2015-05-29-jsconf-reactjs.html#hd_video](http://codewinds.com/blog/2015-05-29-jsconf-reactjs.html#hd_video)
+
 ---
 ###PostCSS
 
