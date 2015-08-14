@@ -9,6 +9,8 @@
 
 [http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 
+
+
 ---
 ###Flux
 
@@ -20,6 +22,7 @@
 
 [https://medium.com/@tribou/react-and-flux-a-docker-development-workflow-469957f3bbf0](https://medium.com/@tribou/react-and-flux-a-docker-development-workflow-469957f3bbf0)
 
+[http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/](http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/)
 
 ---
 ###GraphQL
@@ -30,8 +33,12 @@
 
 [https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 
+
+
 ---
 ###ReactJS
+
+[http://blog.andrewray.me/reactjs-for-stupid-people/](http://blog.andrewray.me/reactjs-for-stupid-people/)
 
 [http://survivejs.com/webpack_react/introduction/](http://survivejs.com/webpack_react/introduction/)
 
@@ -46,11 +53,25 @@
 
 [http://codewinds.com/blog/2015-05-29-jsconf-reactjs.html#hd_video](http://codewinds.com/blog/2015-05-29-jsconf-reactjs.html#hd_video)
 
+[https://github.com/kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+
+
+
 ---
 ###PostCSS
 
 [http://articles.dappergentlemen.com/2015/07/24/postcss/](http://articles.dappergentlemen.com/2015/07/24/postcss/)
 
+
+
+---
+###Workflow
+
+[http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html](http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html)
+
+[https://github.com/gulpjs/gulp/tree/master/docs/recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
+
+[http://git.rocks/getting-started/](http://git.rocks/getting-started/)
 
 
 ---
@@ -74,6 +95,8 @@
 
 [https://leanpub.com/exploring-es6/read](https://leanpub.com/exploring-es6/read)
 
+
+
 ---
 ###Functional
 
@@ -82,9 +105,16 @@
 [https://facebook.github.io/immutable-js/](https://facebook.github.io/immutable-js/)
 
 
+
 ---
 ###Devops
+
 [https://www.serversforhackers.com/](https://www.serversforhackers.com/)
+
+[https://www.conetix.com.au/blog/docker-basics-practical-starters-guide](https://www.conetix.com.au/blog/docker-basics-practical-starters-guide)
+
+[https://www.serversforhackers.com/getting-started-with-docker](https://www.serversforhackers.com/getting-started-with-docker)
+
 
 
 ---
@@ -98,8 +128,31 @@
 
 [https://github.com/substack/browserify-handbook](https://github.com/substack/browserify-handbook)
 
-[https://github.com/gulpjs/gulp/tree/master/docs/recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
-
 [http://enboard.co/webdesign/](http://enboard.co/webdesign/)
 
 [http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting](http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
+
+[https://github.com/babel/babel/issues/2168](https://github.com/babel/babel/issues/2168)
+
+[https://github.com/evancz/elm-architecture-tutorial/](https://github.com/evancz/elm-architecture-tutorial/)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+
+[https://github.com/docdis/learn-api-design](https://github.com/docdis/learn-api-design)
+
+
+---
+###Clojure
+
+[http://www.braveclojure.com/do-things/#3_2__Function_Calls__Macro_Calls__and_Special_Forms](http://www.braveclojure.com/do-things/#3_2__Function_Calls__Macro_Calls__and_Special_Forms)
+
+[https://clojuredocs.org/](https://clojuredocs.org/)
+
+[http://swannodette.github.io/2013/11/07/clojurescript-101/](http://swannodette.github.io/2013/11/07/clojurescript-101/)
+
+
+
+----
+###Videos
+
+[https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f](https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
