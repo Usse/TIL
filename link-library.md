@@ -95,7 +95,7 @@
 
 [https://leanpub.com/exploring-es6/read](https://leanpub.com/exploring-es6/read)
 
-
+[http://www.2ality.com/2015/08/getting-started-es6.html](http://www.2ality.com/2015/08/getting-started-es6.html)
 
 ---
 ###Functional
