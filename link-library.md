@@ -9,6 +9,7 @@
 
 [http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 
+[http://developer.telerik.com/featured/the-javascript-looping-evolution/](http://developer.telerik.com/featured/the-javascript-looping-evolution/)
 
 
 ---
@@ -109,7 +110,7 @@
 ---
 ###Devops
 
-[https://www.serversforhackers.com/](https://www.serversforhackers.com/)
+[https://serversforhackers.com/series](https://serversforhackers.com/series)
 
 [https://www.conetix.com.au/blog/docker-basics-practical-starters-guide](https://www.conetix.com.au/blog/docker-basics-practical-starters-guide)
 
