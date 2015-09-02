@@ -56,6 +56,13 @@
 
 [https://github.com/kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 
+[http://calendar.perfplanet.com/2013/diff/](http://calendar.perfplanet.com/2013/diff/)
+
+[http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
+
+[https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c](https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c)
+
+[http://sgwilym.github.io/relay-visual-learners/](http://sgwilym.github.io/relay-visual-learners/)
 
 
 ---
@@ -105,7 +112,11 @@
 
 [https://facebook.github.io/immutable-js/](https://facebook.github.io/immutable-js/)
 
+[https://curiosity-driven.org/monads-in-javascript](https://curiosity-driven.org/monads-in-javascript)
 
+[http://functionalworks.ghost.io/2015/08/04/whatfpisandwhymakesbetter/](http://functionalworks.ghost.io/2015/08/04/whatfpisandwhymakesbetter/)
+
+[http://functionaljavascript.blogspot.co.uk/2013/07/functors.html](http://functionaljavascript.blogspot.co.uk/2013/07/functors.html)
 
 ---
 ###Devops
@@ -141,6 +152,11 @@
 
 [https://github.com/docdis/learn-api-design](https://github.com/docdis/learn-api-design)
 
+[https://medium.com/@Croissant/40-npm-modules-we-can-t-live-without-36e29e352e3a](https://medium.com/@Croissant/40-npm-modules-we-can-t-live-without-36e29e352e3a)
+
+[http://12factor.net/](http://12factor.net/)
+
+[http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/](http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/)
 
 ---
 ###Clojure
@@ -152,8 +168,22 @@
 [http://swannodette.github.io/2013/11/07/clojurescript-101/](http://swannodette.github.io/2013/11/07/clojurescript-101/)
 
 
+---
+###Haskell
+[http://www.stephendiehl.com/posts/haskell_web.html](http://www.stephendiehl.com/posts/haskell_web.html)
+
 
 ----
 ###Videos
 
 [https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f](https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
+
+
+---
+###Katas
+[http://www.codewars.com/kata/react-with-jsx](http://www.codewars.com/kata/react-with-jsx)
+
+
+---
+###Design
+[https://www.gov.uk/service-manual/user-centred-design](https://www.gov.uk/service-manual/user-centred-design)
