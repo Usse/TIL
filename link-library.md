@@ -11,6 +11,9 @@
 
 [http://developer.telerik.com/featured/the-javascript-looping-evolution/](http://developer.telerik.com/featured/the-javascript-looping-evolution/)
 
+[http://coenraets.org/present/es6/](http://coenraets.org/present/es6/)
+
+[http://ccoenraets.github.io/es6-tutorial/](http://ccoenraets.github.io/es6-tutorial/)
 
 ---
 ###Flux
@@ -63,6 +66,8 @@
 [https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c](https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c)
 
 [http://sgwilym.github.io/relay-visual-learners/](http://sgwilym.github.io/relay-visual-learners/)
+
+[http://rackt.github.io/redux/](http://rackt.github.io/redux/)
 
 
 ---
@@ -128,6 +133,43 @@
 [https://www.serversforhackers.com/getting-started-with-docker](https://www.serversforhackers.com/getting-started-with-docker)
 
 
+---
+###Clojure
+
+[http://www.braveclojure.com/do-things/#3_2__Function_Calls__Macro_Calls__and_Special_Forms](http://www.braveclojure.com/do-things/#3_2__Function_Calls__Macro_Calls__and_Special_Forms)
+
+[https://clojuredocs.org/](https://clojuredocs.org/)
+
+[http://swannodette.github.io/2013/11/07/clojurescript-101/](http://swannodette.github.io/2013/11/07/clojurescript-101/)
+
+
+---
+###Haskell
+[http://www.stephendiehl.com/posts/haskell_web.html](http://www.stephendiehl.com/posts/haskell_web.html)
+
+
+----
+###Videos
+
+[https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f](https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
+
+
+---
+###Katas
+[http://www.codewars.com/kata/react-with-jsx](http://www.codewars.com/kata/react-with-jsx)
+
+
+---
+###Design
+[https://www.gov.uk/service-manual/user-centred-design](https://www.gov.uk/service-manual/user-centred-design)
+
+[http://www.ibm.com/design/language/framework/visual/layout.shtml](http://www.ibm.com/design/language/framework/visual/layout.shtml)
+
+
+---
+###CSS
+[https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 ---
 ###Various
@@ -158,32 +200,4 @@
 
 [http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/](http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/)
 
----
-###Clojure
-
-[http://www.braveclojure.com/do-things/#3_2__Function_Calls__Macro_Calls__and_Special_Forms](http://www.braveclojure.com/do-things/#3_2__Function_Calls__Macro_Calls__and_Special_Forms)
-
-[https://clojuredocs.org/](https://clojuredocs.org/)
-
-[http://swannodette.github.io/2013/11/07/clojurescript-101/](http://swannodette.github.io/2013/11/07/clojurescript-101/)
-
-
----
-###Haskell
-[http://www.stephendiehl.com/posts/haskell_web.html](http://www.stephendiehl.com/posts/haskell_web.html)
-
-
-----
-###Videos
-
-[https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f](https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
-
-
----
-###Katas
-[http://www.codewars.com/kata/react-with-jsx](http://www.codewars.com/kata/react-with-jsx)
-
-
----
-###Design
-[https://www.gov.uk/service-manual/user-centred-design](https://www.gov.uk/service-manual/user-centred-design)
+[http://docs.scala-lang.org/overviews/collections/overview.html](http://docs.scala-lang.org/overviews/collections/overview.html)
