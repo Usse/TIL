@@ -88,6 +88,11 @@
 
 
 ---
+###Games
+[http://gamemechanicexplorer.com/](http://gamemechanicexplorer.com/)
+
+
+---
 ###ES6
 
 [https://hacks.mozilla.org/category/es6-in-depth/](https://hacks.mozilla.org/category/es6-in-depth/)
@@ -110,6 +115,7 @@
 
 [http://www.2ality.com/2015/08/getting-started-es6.html](http://www.2ality.com/2015/08/getting-started-es6.html)
 
+
 ---
 ###Functional
 
@@ -122,6 +128,7 @@
 [http://functionalworks.ghost.io/2015/08/04/whatfpisandwhymakesbetter/](http://functionalworks.ghost.io/2015/08/04/whatfpisandwhymakesbetter/)
 
 [http://functionaljavascript.blogspot.co.uk/2013/07/functors.html](http://functionaljavascript.blogspot.co.uk/2013/07/functors.html)
+
 
 ---
 ###Devops
@@ -201,3 +208,5 @@
 [http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/](http://www.smashingmagazine.com/2015/08/web-development-reading-list-100/)
 
 [http://docs.scala-lang.org/overviews/collections/overview.html](http://docs.scala-lang.org/overviews/collections/overview.html)
+
+[https://github.com/mattdesl/promise-cookbook/blob/master/README.md](https://github.com/mattdesl/promise-cookbook/blob/master/README.md)
