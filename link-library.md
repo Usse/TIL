@@ -15,6 +15,9 @@
 
 [http://ccoenraets.github.io/es6-tutorial/](http://ccoenraets.github.io/es6-tutorial/)
 
+
+
+
 ---
 ###Flux
 
@@ -28,6 +31,9 @@
 
 [http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/](http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/)
 
+
+
+
 ---
 ###GraphQL
 
@@ -36,6 +42,7 @@
 [https://medium.com/@devknoll/graphql-in-production-77098078b54d](https://medium.com/@devknoll/graphql-in-production-77098078b54d)
 
 [https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
+
 
 
 
@@ -70,10 +77,13 @@
 [http://rackt.github.io/redux/](http://rackt.github.io/redux/)
 
 
+
+
 ---
 ###PostCSS
 
 [http://articles.dappergentlemen.com/2015/07/24/postcss/](http://articles.dappergentlemen.com/2015/07/24/postcss/)
+
 
 
 
@@ -86,10 +96,16 @@
 
 [http://git.rocks/getting-started/](http://git.rocks/getting-started/)
 
+[http://buildamodule.com/video/](http://buildamodule.com/video/change-management-and-version-control-deploying-releases-features-and-fixes-with-git-how-to-use-a-scalable-git-branching-model-called-gitflow#viewing)
+
+
+
 
 ---
 ###Games
 [http://gamemechanicexplorer.com/](http://gamemechanicexplorer.com/)
+
+
 
 
 ---
@@ -116,6 +132,8 @@
 [http://www.2ality.com/2015/08/getting-started-es6.html](http://www.2ality.com/2015/08/getting-started-es6.html)
 
 
+
+
 ---
 ###Functional
 
@@ -130,6 +148,8 @@
 [http://functionaljavascript.blogspot.co.uk/2013/07/functors.html](http://functionaljavascript.blogspot.co.uk/2013/07/functors.html)
 
 
+
+
 ---
 ###Devops
 
@@ -138,6 +158,8 @@
 [https://www.conetix.com.au/blog/docker-basics-practical-starters-guide](https://www.conetix.com.au/blog/docker-basics-practical-starters-guide)
 
 [https://www.serversforhackers.com/getting-started-with-docker](https://www.serversforhackers.com/getting-started-with-docker)
+
+
 
 
 ---
@@ -150,9 +172,13 @@
 [http://swannodette.github.io/2013/11/07/clojurescript-101/](http://swannodette.github.io/2013/11/07/clojurescript-101/)
 
 
+
+
 ---
 ###Haskell
 [http://www.stephendiehl.com/posts/haskell_web.html](http://www.stephendiehl.com/posts/haskell_web.html)
+
+
 
 
 ----
@@ -161,9 +187,13 @@
 [https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f](https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
 
 
+
+
 ---
 ###Katas
 [http://www.codewars.com/kata/react-with-jsx](http://www.codewars.com/kata/react-with-jsx)
+
+
 
 
 ---
@@ -173,9 +203,13 @@
 [http://www.ibm.com/design/language/framework/visual/layout.shtml](http://www.ibm.com/design/language/framework/visual/layout.shtml)
 
 
+
+
 ---
 ###CSS
 [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
 
 
 ---
