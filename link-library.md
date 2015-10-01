@@ -31,6 +31,8 @@
 
 [http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/](http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/)
 
+[https://medium.com/swlh/a-cartoon-guide-to-flux-6157355ab207](https://medium.com/swlh/a-cartoon-guide-to-flux-6157355ab207)
+
 
 
 
