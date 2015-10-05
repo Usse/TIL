@@ -38,3 +38,8 @@ Groups commits by user
 ```
 git shortlog
 ```
+
+See modified code since last pull
+```
+git diff @{1} 
+```
