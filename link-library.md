@@ -246,3 +246,7 @@
 [http://docs.scala-lang.org/overviews/collections/overview.html](http://docs.scala-lang.org/overviews/collections/overview.html)
 
 [https://github.com/mattdesl/promise-cookbook/blob/master/README.md](https://github.com/mattdesl/promise-cookbook/blob/master/README.md)
+
+[https://www.owasp.org/index.php/Cheat_Sheets](https://www.owasp.org/index.php/Cheat_Sheets)
+
+[http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
