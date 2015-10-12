@@ -9,7 +9,7 @@ console.log("oddNumber", oddNumber);
 
 
 // Array.prototype.findIndex
-// Similar to find but return the index of the element
+// Similar to find but returns the index of the element
 let jackIndex = people.findIndex((x) => x === 'jack')
 console.log("jackIndex", jackIndex);
 
@@ -27,7 +27,7 @@ console.log([...entries2]);
 
 
 // Array.prototype.from
-// generate and array
+// generate an array
 console.log(Array.from('hello'));
 let nameSet = new Set(['jamie', 'jack'])
 console.log(Array.from(nameSet));
