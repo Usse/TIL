@@ -250,3 +250,5 @@
 [https://www.owasp.org/index.php/Cheat_Sheets](https://www.owasp.org/index.php/Cheat_Sheets)
 
 [http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
+
+[http://medoingthings.com/writing/2015/03/front-end-deployment-for-the-rest-of-us](http://medoingthings.com/writing/2015/03/front-end-deployment-for-the-rest-of-us)
