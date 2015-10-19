@@ -1,3 +1,5 @@
+
+```javascript
 let numbers = [1, 2, 3, 4, 5];
 let people = ['jamie', 'jack', 'isaac'];
 
@@ -55,3 +57,4 @@ for(let [index, elem] of ['a', 'b', 'c', 'd', 'e'].entries()) {
 
 let sevens = new Array(10).fill(7);
 console.log("sevens: ", sevens);
+```
