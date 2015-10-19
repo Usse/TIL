@@ -7,4 +7,12 @@ var [a,b] = [0,1]
 [a,b] = [b,a]
 ```
 
-b will be 0 and a will be 1
+```javascript
+> a
+1
+> b
+0
+```
+
+
+
