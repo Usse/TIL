@@ -27,3 +27,8 @@
 
 ######Fluent 2015 Playlist
 [https://www.youtube.com/playlist?list=PLvOLjKkPjrVp7Tn-7gVj7rAp3rnSl10Ek](https://www.youtube.com/playlist?list=PLvOLjKkPjrVp7Tn-7gVj7rAp3rnSl10Ek)
+
+---
+
+######Evolving JavaScript with TypeScript
+[https://www.youtube.com/watch?v=Ut694dsIa8w](https://www.youtube.com/watch?v=Ut694dsIa8w)

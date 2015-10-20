@@ -15,8 +15,9 @@
 
 [http://ccoenraets.github.io/es6-tutorial/](http://ccoenraets.github.io/es6-tutorial/)
 
+[https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc](https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc)
 
-
+[http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 
 ---
 ###Flux
@@ -100,7 +101,7 @@
 
 [http://buildamodule.com/video/](http://buildamodule.com/video/change-management-and-version-control-deploying-releases-features-and-fixes-with-git-how-to-use-a-scalable-git-branching-model-called-gitflow#viewing)
 
-
+[https://www.atlassian.com/agile/branching](https://www.atlassian.com/agile/branching)
 
 
 ---
@@ -108,6 +109,13 @@
 [http://gamemechanicexplorer.com/](http://gamemechanicexplorer.com/)
 
 
+
+---
+###Typescript
+
+[http://www.typescriptlang.org/Handbook](http://www.typescriptlang.org/Handbook)
+
+[https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/](https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/)
 
 
 ---
@@ -133,7 +141,11 @@
 
 [http://www.2ality.com/2015/08/getting-started-es6.html](http://www.2ality.com/2015/08/getting-started-es6.html)
 
+[https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878](https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878)
 
+[https://ponyfoo.com/articles/es6](https://ponyfoo.com/articles/es6)
+
+[https://github.com/lukehoban/es6features#readme](https://github.com/lukehoban/es6features#readme)
 
 
 ---
@@ -149,7 +161,9 @@
 
 [http://functionaljavascript.blogspot.co.uk/2013/07/functors.html](http://functionaljavascript.blogspot.co.uk/2013/07/functors.html)
 
+[http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
+[http://functional.tv/](http://functional.tv/)
 
 
 ---
