@@ -32,3 +32,10 @@
 
 ######Evolving JavaScript with TypeScript
 [https://www.youtube.com/watch?v=Ut694dsIa8w](https://www.youtube.com/watch?v=Ut694dsIa8w)
+
+
+---
+
+
+######Exploring GraphQL
+[https://youtu.be/_9RgHXqH8J0](https://youtu.be/_9RgHXqH8J0)
