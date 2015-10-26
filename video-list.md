@@ -42,3 +42,9 @@
 
 ######Making Badass Developers
 [https://www.youtube.com/watch?v=FKTxC9pl-WM](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+
+
+---
+
+######Angular Connect Keynote
+[https://www.youtube.com/watch?v=UxjgUjVpe24](https://www.youtube.com/watch?v=UxjgUjVpe24)
