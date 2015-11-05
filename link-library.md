@@ -37,6 +37,13 @@
 [http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
 
 
+---
+###Redux
+
+[http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
+[http://rackt.github.io/redux/](http://rackt.github.io/redux/)
+
 
 
 ---
@@ -78,9 +85,6 @@
 [https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c](https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c)
 
 [http://sgwilym.github.io/relay-visual-learners/](http://sgwilym.github.io/relay-visual-learners/)
-
-[http://rackt.github.io/redux/](http://rackt.github.io/redux/)
-
 
 
 
