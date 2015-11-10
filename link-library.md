@@ -86,6 +86,9 @@
 
 [http://sgwilym.github.io/relay-visual-learners/](http://sgwilym.github.io/relay-visual-learners/)
 
+[http://reactkungfu.com/2015/09/react-js-by-example-is-now-v-1/](http://reactkungfu.com/2015/09/react-js-by-example-is-now-v-1/)
+
+[http://smashingboxes.com/ideas/learn-react-part-1](http://smashingboxes.com/ideas/learn-react-part-1)
 
 
 ---
