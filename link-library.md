@@ -112,6 +112,7 @@
 
 [https://www.atlassian.com/agile/branching](https://www.atlassian.com/agile/branching)
 
+[http://mnapoli.fr/approaching-coding-style-rationally/](http://mnapoli.fr/approaching-coding-style-rationally/)
 
 ---
 ###Games
