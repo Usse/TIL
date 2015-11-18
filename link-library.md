@@ -19,6 +19,8 @@
 
 [http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 
+[https://www.webreflection.co.uk/blog/2015/11/07/the-history-of-simulated-classes-in-javascript](https://www.webreflection.co.uk/blog/2015/11/07/the-history-of-simulated-classes-in-javascript)
+
 ---
 ###Flux
 
@@ -55,8 +57,10 @@
 
 [https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 
+---
+###Testing
 
-
+[http://reactjsnews.com/testing-the-easy-way/](http://reactjsnews.com/testing-the-easy-way/)
 
 ---
 ###ReactJS
@@ -90,6 +94,11 @@
 
 [http://smashingboxes.com/ideas/learn-react-part-1](http://smashingboxes.com/ideas/learn-react-part-1)
 
+[http://tech.adroll.com/blog/frontend/2015/11/12/rollup-react-and-npm-at-adroll.html](http://tech.adroll.com/blog/frontend/2015/11/12/rollup-react-and-npm-at-adroll.html)
+
+[http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/](http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/)
+
+[http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/](http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/)
 
 ---
 ###PostCSS
@@ -113,6 +122,7 @@
 [https://www.atlassian.com/agile/branching](https://www.atlassian.com/agile/branching)
 
 [http://mnapoli.fr/approaching-coding-style-rationally/](http://mnapoli.fr/approaching-coding-style-rationally/)
+
 
 ---
 ###Games
@@ -175,6 +185,7 @@
 
 [http://functional.tv/](http://functional.tv/)
 
+[http://reactivex.io/learnrx/](http://reactivex.io/learnrx/)
 
 ---
 ###Devops
@@ -276,3 +287,7 @@
 [http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 
 [http://medoingthings.com/writing/2015/03/front-end-deployment-for-the-rest-of-us](http://medoingthings.com/writing/2015/03/front-end-deployment-for-the-rest-of-us)
+
+[https://www.quora.com/How-can-I-know-if-my-knowledge-level-makes-me-a-junior-middle-or-senior-level-developer](https://www.quora.com/How-can-I-know-if-my-knowledge-level-makes-me-a-junior-middle-or-senior-level-developer)
+
+[https://github.com/miripiruni/frontdesk](https://github.com/miripiruni/frontdesk)
