@@ -21,6 +21,8 @@
 
 [https://www.webreflection.co.uk/blog/2015/11/07/the-history-of-simulated-classes-in-javascript](https://www.webreflection.co.uk/blog/2015/11/07/the-history-of-simulated-classes-in-javascript)
 
+[https://davidwalsh.name/nested-objects](https://davidwalsh.name/nested-objects)
+
 ---
 ###Flux
 
@@ -99,6 +101,8 @@
 [http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/](http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/)
 
 [http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/](http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/)
+
+[http://www.hackingwithreact.com/read/1/1/begin-at-the-beginning-chapter-one](http://www.hackingwithreact.com/read/1/1/begin-at-the-beginning-chapter-one)
 
 ---
 ###PostCSS
@@ -246,6 +250,7 @@
 ###CSS
 [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+[http://easings.net/](http://easings.net/)
 
 
 
@@ -291,3 +296,5 @@
 [https://www.quora.com/How-can-I-know-if-my-knowledge-level-makes-me-a-junior-middle-or-senior-level-developer](https://www.quora.com/How-can-I-know-if-my-knowledge-level-makes-me-a-junior-middle-or-senior-level-developer)
 
 [https://github.com/miripiruni/frontdesk](https://github.com/miripiruni/frontdesk)
+
+[http://en.arguman.org/react-is-killing-angular](http://en.arguman.org/react-is-killing-angular)
