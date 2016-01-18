@@ -23,6 +23,8 @@
 
 [https://davidwalsh.name/nested-objects](https://davidwalsh.name/nested-objects)
 
+[https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
+
 ---
 ###Flux
 
