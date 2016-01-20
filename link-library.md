@@ -106,6 +106,8 @@
 
 [http://www.hackingwithreact.com/read/1/1/begin-at-the-beginning-chapter-one](http://www.hackingwithreact.com/read/1/1/begin-at-the-beginning-chapter-one)
 
+[https://www.stanleycyang.com/tutorials/the-reactjs-bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
+
 ---
 ###PostCSS
 
