@@ -25,6 +25,8 @@
 
 [https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 
+[http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/](http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/)
+
 ---
 ###Flux
 
@@ -65,6 +67,10 @@
 ###Testing
 
 [http://reactjsnews.com/testing-the-easy-way/](http://reactjsnews.com/testing-the-easy-way/)
+
+[http://jaredtong.com/2016/01/08/how-to-set-up-mocha-chai-sinon-karma-browserify-istanbul-codecov/](http://jaredtong.com/2016/01/08/how-to-set-up-mocha-chai-sinon-karma-browserify-istanbul-codecov/)
+
+[https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine)
 
 ---
 ###ReactJS
@@ -108,6 +114,10 @@
 
 [https://www.stanleycyang.com/tutorials/the-reactjs-bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
 
+[https://camjackson.net/post/9-things-every-reactjs-beginner-should-know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+
+[http://reactjsnews.com/your-first-redux-app/](http://reactjsnews.com/your-first-redux-app/)
+
 ---
 ###PostCSS
 
@@ -130,6 +140,8 @@
 [https://www.atlassian.com/agile/branching](https://www.atlassian.com/agile/branching)
 
 [http://mnapoli.fr/approaching-coding-style-rationally/](http://mnapoli.fr/approaching-coding-style-rationally/)
+
+[http://danielkummer.github.io/git-flow-cheatsheet/](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 
 ---
@@ -174,6 +186,8 @@
 [https://ponyfoo.com/articles/es6](https://ponyfoo.com/articles/es6)
 
 [https://github.com/lukehoban/es6features#readme](https://github.com/lukehoban/es6features#readme)
+
+[https://medium.com/@dabit3/getting-up-to-speed-with-es6-classes-2382ef3efb9c#.w3ify0h7k](https://medium.com/@dabit3/getting-up-to-speed-with-es6-classes-2382ef3efb9c#.w3ify0h7k)
 
 
 ---
@@ -256,6 +270,7 @@
 
 [http://easings.net/](http://easings.net/)
 
+[http://bitsofco.de/alternatives-to-floating/](http://bitsofco.de/alternatives-to-floating/)
 
 
 ---
@@ -302,3 +317,13 @@
 [https://github.com/miripiruni/frontdesk](https://github.com/miripiruni/frontdesk)
 
 [http://en.arguman.org/react-is-killing-angular](http://en.arguman.org/react-is-killing-angular)
+
+[https://10up.github.io/Engineering-Best-Practices/javascript/](https://10up.github.io/Engineering-Best-Practices/javascript/)
+
+
+---
+###Todos
+
+[http://www.hackingwithreact.com/read/1/14/cleaning-up-and-preparing-for-a-real-project](http://www.hackingwithreact.com/read/1/14/cleaning-up-and-preparing-for-a-real-project)
+
+[http://belen-albeza.github.io/simplify-front-end-fel/](http://belen-albeza.github.io/simplify-front-end-fel/)
