@@ -27,6 +27,8 @@
 
 [http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/](http://www.jayway.com/2015/03/04/using-react-with-ecmascript-6/)
 
+[http://blog.apcelent.com/javascript-not-working.html](http://blog.apcelent.com/javascript-not-working.html)
+
 ---
 ###Flux
 
