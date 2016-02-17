@@ -29,6 +29,15 @@
 
 [http://blog.apcelent.com/javascript-not-working.html](http://blog.apcelent.com/javascript-not-working.html)
 
+[http://code.tutsplus.com/tutorials/keeping-promises-with-javascript--cms-25056](http://code.tutsplus.com/tutorials/keeping-promises-with-javascript--cms-25056)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+[https://ponyfoo.com/articles/understanding-javascript-async-await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+
+[https://developers.google.com/web/updates/2016/02/es2015-proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies)
+
+
 ---
 ###Flux
 
@@ -211,6 +220,8 @@
 
 [http://reactivex.io/learnrx/](http://reactivex.io/learnrx/)
 
+[http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/)
+
 ---
 ###Devops
 
@@ -321,6 +332,8 @@
 [http://en.arguman.org/react-is-killing-angular](http://en.arguman.org/react-is-killing-angular)
 
 [https://10up.github.io/Engineering-Best-Practices/javascript/](https://10up.github.io/Engineering-Best-Practices/javascript/)
+
+[http://www.infoq.com/articles/no-more-mvc-frameworks](http://www.infoq.com/articles/no-more-mvc-frameworks)
 
 
 ---
