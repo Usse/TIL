@@ -43,3 +43,8 @@ See modified code since last pull
 ```
 git diff @{1} 
 ```
+
+See diffs since 10 commits ago
+```
+git log -p -10 ./filename
+```
