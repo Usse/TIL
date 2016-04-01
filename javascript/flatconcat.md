@@ -1,4 +1,4 @@
-```
+```js
 var concat = (acc, input) => acc.concat([input]);
 var flatcat = (acc, input) => acc.concat(input);
 
