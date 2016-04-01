@@ -337,6 +337,12 @@
 
 
 ---
+###Python
+
+[https://realpython.com/blog/python/python-virtual-environments-a-primer/](https://realpython.com/blog/python/python-virtual-environments-a-primer/)
+
+
+---
 ###Todos
 
 [http://www.hackingwithreact.com/read/1/14/cleaning-up-and-preparing-for-a-real-project](http://www.hackingwithreact.com/read/1/14/cleaning-up-and-preparing-for-a-real-project)
