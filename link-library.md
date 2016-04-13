@@ -64,7 +64,6 @@
 [http://rackt.github.io/redux/](http://rackt.github.io/redux/)
 
 
-
 ---
 ###GraphQL
 
@@ -73,6 +72,7 @@
 [https://medium.com/@devknoll/graphql-in-production-77098078b54d](https://medium.com/@devknoll/graphql-in-production-77098078b54d)
 
 [https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
+
 
 ---
 ###Testing
@@ -83,6 +83,7 @@
 
 [https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine)
 
+
 ---
 ###ReactJS
 
@@ -90,8 +91,7 @@
 
 [http://survivejs.com/webpack_react/introduction/](http://survivejs.com/webpack_react/introduction/)
 
-[http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
-](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+[http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
 [http://alt.js.org/guide/](http://alt.js.org/guide/)
 
@@ -129,12 +129,11 @@
 
 [http://reactjsnews.com/your-first-redux-app/](http://reactjsnews.com/your-first-redux-app/)
 
+
 ---
 ###PostCSS
 
 [http://articles.dappergentlemen.com/2015/07/24/postcss/](http://articles.dappergentlemen.com/2015/07/24/postcss/)
-
-
 
 
 ---
@@ -158,7 +157,6 @@
 ---
 ###Games
 [http://gamemechanicexplorer.com/](http://gamemechanicexplorer.com/)
-
 
 
 ---
@@ -222,6 +220,7 @@
 
 [http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/)
 
+
 ---
 ###Devops
 
@@ -230,8 +229,6 @@
 [https://www.conetix.com.au/blog/docker-basics-practical-starters-guide](https://www.conetix.com.au/blog/docker-basics-practical-starters-guide)
 
 [https://www.serversforhackers.com/getting-started-with-docker](https://www.serversforhackers.com/getting-started-with-docker)
-
-
 
 
 ---
@@ -244,13 +241,9 @@
 [http://swannodette.github.io/2013/11/07/clojurescript-101/](http://swannodette.github.io/2013/11/07/clojurescript-101/)
 
 
-
-
 ---
 ###Haskell
 [http://www.stephendiehl.com/posts/haskell_web.html](http://www.stephendiehl.com/posts/haskell_web.html)
-
-
 
 
 ----
@@ -259,13 +252,9 @@
 [https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f](https://www.youtube.com/watch?v=m-NYyst_tiY&index=2&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
 
 
-
-
 ---
 ###Katas
 [http://www.codewars.com/kata/react-with-jsx](http://www.codewars.com/kata/react-with-jsx)
-
-
 
 
 ---
@@ -273,8 +262,6 @@
 [https://www.gov.uk/service-manual/user-centred-design](https://www.gov.uk/service-manual/user-centred-design)
 
 [http://www.ibm.com/design/language/framework/visual/layout.shtml](http://www.ibm.com/design/language/framework/visual/layout.shtml)
-
-
 
 
 ---

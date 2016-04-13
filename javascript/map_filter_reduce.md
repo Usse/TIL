@@ -1,4 +1,4 @@
-###Map, filter and reduce
+##Map, filter and reduce
 
 
 Initial array
@@ -14,7 +14,7 @@ map calls a provided callback function once for each element in an array, in ord
 ```javascript
 var doubles = array.map(function(num) {
   return num * 2;
-}); 
+});
 // [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 ```
 
@@ -27,7 +27,7 @@ filter calls a provided callback function once for each element in an array, and
 ```javascript
 var odds = array.filter(function(num) {
   return num % 2 == 0;
-}); 
+});
 // [2, 4, 6, 8, 10]
 ```
 
