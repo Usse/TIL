@@ -48,3 +48,10 @@ See diffs since 10 commits ago
 ```
 git log -p -10 ./filename
 ```
+
+Tree view for last modify to a specific file
+
+```
+git log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative -- <FILENAME>
+```
+
