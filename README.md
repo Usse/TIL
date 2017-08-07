@@ -1,2 +1,2 @@
-###Today I Learned
-A collection of knowledge.
+### Today I Learned
+A learning experience.
